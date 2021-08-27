@@ -1,2 +1,2 @@
 # 404
-My independed projecct
+My first independed project
